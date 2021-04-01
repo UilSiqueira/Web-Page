@@ -1,0 +1,14 @@
+  
+   // Google Font - Poppins 
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
+
+
+
+  // CDN & Script Tags 
+
+ #FontAwesome:  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+ #AOS CSS File :  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />  (For animations)
+  
+ #AOS Script Tag : <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
